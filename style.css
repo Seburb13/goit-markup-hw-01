@@ -37,6 +37,7 @@
 }
 body {
     background: #e5e5e5;
+    font-family: "Roboto", sans-serif;
 }
 .wrapper {
     justify-content: center;
@@ -47,7 +48,6 @@ body {
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 header {
-    font-family: "Roboto", sans-serif;
     width: 1600px;
     height: 600px;
     top: 80px;
@@ -55,7 +55,6 @@ header {
     margin-bottom: 94px;
 }
 .headertext {
-    font-family: "Roboto", sans-serif;
     color: #ffffff;
     margin-top: 20px;
     padding-top: 200px;
@@ -72,7 +71,6 @@ header {
     width: 1400px;
 }
 .texttabletext {
-    font-family: "Roboto", sans-serif;
     column-count: 4;
     margin: auto;
     width: 1400px;
@@ -95,7 +93,6 @@ header {
     margin-bottom: 30px;
 }
 .button {
-    font-family: "Roboto", sans-serif;
     margin-left: 700px;
     color: white;
     background: #2196f3;
@@ -106,7 +103,6 @@ header {
     cursor: pointer;
 }
 .sign {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 42px;
     line-height: 42px;
@@ -115,7 +111,6 @@ header {
     margin-top: 94px;
 }
 footer {
-    font-family: "Roboto", sans-serif;
     width: 1600px;
     height: 252px;
     background: #2f303a;
