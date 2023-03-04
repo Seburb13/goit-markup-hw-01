@@ -12,10 +12,22 @@
     line-height: 31px;
     letter-spacing: 0.03em;
 }
+.logo2 {
+    font-family: "Raleway", sans-serif;
+    width: 145px;
+    height: 31px;
+    top: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+}
 .menusign {
     font-family: "Roboto", sans-serif;
 }
 body {
+    font-family: "Roboto", sans-serif;
     background: #e5e5e5;
 }
 .wrapper {
@@ -32,10 +44,6 @@ header {
     top: 80px;
     background: #2f303a;
     margin-bottom: 94px;
-}
-.textmenu {
-    column-count: 6;
-    justify-content: center;
 }
 .headertext {
     color: #ffffff;
