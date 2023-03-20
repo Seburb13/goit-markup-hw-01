@@ -23,19 +23,6 @@
     line-height: 31px;
     letter-spacing: 0.03em;
 }
-.menusign {
-    margin-left: 453px;
-    font-family: "Roboto", sans-serif;
-    width: 58px;
-    height: 16px;
-    left: 552px;
-    top: 32px;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
-}
 body {
     background: #e5e5e5;
     font-family: "Roboto", sans-serif;
@@ -65,13 +52,14 @@ header {
     line-height: 10px;
     text-transform: uppercase;
 }
-.texttable {
+.texttablemenu {
     font-family: "Roboto", sans-serif;
-    column-count: 4;
-    margin: auto;
-    width: 1400px;
+    column-count: 5;
+    margin-left: 500px;
+    width: 1000px;
 }
 .texttabletext {
+    font-family: "Roboto", sans-serif;
     column-count: 4;
     margin: auto;
     width: 1400px;
@@ -82,16 +70,6 @@ header {
     column-gap: 30px;
     width: 1117px;
     margin-bottom: 94px;
-}
-.images2 {
-    margin: auto;
-    column-count: 4;
-    column-gap: 30px;
-    width: 1170px;
-    margin-bottom: 10px;
-    height: 325px;
-    top: 80px;
-    margin-bottom: 30px;
 }
 .button {
     margin-left: 700px;
