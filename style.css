@@ -51,7 +51,8 @@ footer {
 width: 272px;
 height: 16px;
 left: 453px;
-top: 32px;
+top: 12px;
+list-style-position: inside;
 }
 .mailcon {
     position: absolute;
@@ -83,7 +84,8 @@ top: 32px;
 }
 .desc {
     top: 774px;
-    width: 1600px;
+    width: 1200px;
+    height:50px;
     position: absolute;
     font-family: "Roboto", sans-serif;
 }
@@ -107,6 +109,7 @@ top: 32px;
     column-gap: 30px;
     width: 1117px;
     margin-bottom: 94px;
+    list-style-position: inside;
 }
 .button {
     margin-left: 700px;
