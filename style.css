@@ -28,30 +28,25 @@ footer {
     background: #2f303a;
     top: 2097px;
 }
-.logo1 {
-    margin-left: 215px;
-    font-family: "Raleway", sans-serif;
-    color: #2196f3;
+.logo {
+    position: absolute;
     width: 145px;
     height: 31px;
     left: 215px;
     top: 24px;
+
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;
+    /* identical to box height */
     letter-spacing: 0.03em;
 }
+.logo1 {
+    color: #2196f3;
+}
 .logo2 {
-    font-family: "Raleway", sans-serif;
-    width: 145px;
-    height: 31px;
-    top: 24px;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    letter-spacing: 0.03em;
 }
 
 .headertext {
