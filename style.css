@@ -64,6 +64,13 @@ footer {
     line-height: 10px;
     text-transform: uppercase;
 }
+.desc {
+    top: 774px;
+    width: 1600px;
+    height: 181px;
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+}
 .texttablemenu {
     font-family: "Roboto", sans-serif;
     column-count: 5;
@@ -71,6 +78,7 @@ footer {
     width: 1000px;
 }
 .texttabletext {
+    text-transform: uppercase;
     position: absolute;
     font-family: "Roboto", sans-serif;
     column-count: 4;
@@ -102,9 +110,9 @@ footer {
     margin-bottom: 94px;
     margin-top: 94px;
 }
-main {
+.team {
     position: absolute;
-    top: 1000px;
+    top: 1449px;
     width: 1600px;
     height: 648px;
     background: #f5f4fa;
