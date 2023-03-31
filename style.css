@@ -20,13 +20,7 @@ header {
     background: #2f303a;
     font-family: "Roboto", sans-serif;
 }
-main {
-    position: absolute;
-    width: 1600px;
-    height: 648px;
-    top: 1449px;
-    background: #f5f4fa;
-}
+
 footer {
     position: absolute;
     width: 1600px;
@@ -77,6 +71,7 @@ footer {
     width: 1000px;
 }
 .texttabletext {
+    position: absolute;
     font-family: "Roboto", sans-serif;
     column-count: 4;
     margin: auto;
@@ -107,9 +102,12 @@ footer {
     margin-bottom: 94px;
     margin-top: 94px;
 }
-.desc {
+main {
+    position: absolute;
+    top: 1000px;
     width: 1600px;
-    height: 100px;
+    height: 648px;
+    background: #f5f4fa;
 }
 ul {
     list-style-type: none;
