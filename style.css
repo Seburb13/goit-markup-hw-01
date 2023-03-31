@@ -30,7 +30,7 @@ footer {
 }
 .logo {
     position: absolute;
-    width: 120px;
+    width: 130px;
     height: 31px;
     left: 215px;
     top: 24px;
@@ -46,7 +46,13 @@ footer {
 .logo1 {
     color: #2196f3;
 }
-
+.apk {
+    position: absolute;
+width: 272px;
+height: 16px;
+left: 453px;
+top: 32px;
+}
 .headertext {
     color: #ffffff;
     margin-top: 20px;
@@ -60,10 +66,7 @@ footer {
 
 .texttablemenu {
     font-family: "Roboto", sans-serif;
-    text-align: center;
-    margin-left: 400px;
-    column-count: 5;
-    width: 1000px;
+    
 }
 .desc {
     top: 774px;
