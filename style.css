@@ -1,13 +1,15 @@
-body {
-    background: #f5f4fa;
+.wrapper {
+    justify-content: center;
+    width: 1600px;
+    list-style-position: inside;
+    margin: auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 .topline {
     position: absolute;
     width: 1600px;
     height: 80px;
-    left: 0px;
-    top: 0px;
-
     background: #ffffff;
 }
 header {
@@ -58,15 +60,6 @@ footer {
     letter-spacing: 0.03em;
 }
 
-.wrapper {
-    justify-content: center;
-    width: 1600px;
-    list-style-position: inside;
-    margin: auto;
-    background: #ffffff;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-}
-
 .headertext {
     color: #ffffff;
     margin-top: 20px;
@@ -114,7 +107,10 @@ footer {
     margin-bottom: 94px;
     margin-top: 94px;
 }
-
+.desc {
+    width: 1600px;
+    height: 100px;
+}
 ul {
     list-style-type: none;
 }
