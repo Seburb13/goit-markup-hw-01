@@ -28,7 +28,7 @@ footer {
     background: #2f303a;
     top: 2097px;
 }
-.logo {
+.logo1 {
     margin-left: 215px;
     font-family: "Raleway", sans-serif;
     color: #2196f3;
@@ -64,26 +64,33 @@ footer {
     line-height: 10px;
     text-transform: uppercase;
 }
+
+.texttablemenu {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    margin-left: 400px;
+    column-count: 5;
+    width: 1000px;
+}
 .desc {
     top: 774px;
     width: 1600px;
-    height: 181px;
     position: absolute;
     font-family: "Roboto", sans-serif;
-}
-.texttablemenu {
-    font-family: "Roboto", sans-serif;
-    column-count: 5;
-    margin-left: 500px;
-    width: 1000px;
 }
 .texttabletext {
-    text-transform: uppercase;
-    position: absolute;
     font-family: "Roboto", sans-serif;
-    column-count: 4;
     margin: auto;
+    column-count: 4;
+    column-gap: 5px;
     width: 1400px;
+}
+.gallery {
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    width: 1600px;
+    height: 386px;
+    top: 969px;
 }
 .images1 {
     margin: auto;
@@ -111,6 +118,7 @@ footer {
     margin-top: 94px;
 }
 .team {
+    font-family: "Roboto", sans-serif;
     position: absolute;
     top: 1449px;
     width: 1600px;
