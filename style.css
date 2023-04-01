@@ -64,6 +64,7 @@ width: 246px;
 height: 81px;
 left: 215px;
 top: 2208px;
+list-style-position: inside;
 }
 .apk {
     position: absolute;
