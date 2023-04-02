@@ -1,7 +1,8 @@
 .wrapper {
+    display:flex;
     justify-content: center;
     width: 1600px;
-    margin: auto;
+    margin: 0 auto;
     background: #ffffff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
