@@ -1,7 +1,6 @@
 .wrapper {
     justify-content: center;
     width: 1600px;
-    list-style-position: inside;
     margin: auto;
     background: #ffffff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
