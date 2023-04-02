@@ -20,7 +20,6 @@ header {
     background: #2f303a;
     font-family: "Roboto", sans-serif;
 }
-
 footer {
     position: absolute;
     width: 1600px;
@@ -60,11 +59,12 @@ footer {
 }
 .fottab {
     position: absolute;
+    left: 180px;
+    top: 50px;
+    width: 300px;
+    height: 31px;
     color: #ffffff;
-    width: 246px;
-    height: 20px;
-    left: 215px;
-    top: 24px;
+    font-style: normal;
     list-style-position: inside;
 }
 .apk {
@@ -81,13 +81,19 @@ footer {
     height: 16px;
     left: 1078px;
     top: 32px;
+    color: #757575;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
 }
 .telcon {
     position: absolute;
-    width: 110px;
+    width: 150px;
     height: 16px;
     left: 1263px;
-    top: 32px;    
+    top: 32px; 
+    color: #757575;
+    text-decoration: none; 
+    font-family: "Roboto", sans-serif;
 }
 .headertext {
     color: #ffffff;
@@ -148,7 +154,7 @@ footer {
     line-height: 42px;
     text-align: center;
     margin-bottom: 94px;
-    margin-top: 94px;
+    margin-top: 64px;
 }
 .team {
     font-family: "Roboto", sans-serif;
@@ -160,4 +166,9 @@ footer {
 }
 ul {
     list-style-type: none;
+}
+.line {
+    color:#ffffff;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
 }
