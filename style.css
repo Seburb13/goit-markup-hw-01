@@ -58,10 +58,11 @@ footer {
     letter-spacing: 0.03em;
 }
 .fottab {
+    font-family: "Roboto", sans-serif;
     position: absolute;
     left: 180px;
-    top: 50px;
-    width: 300px;
+    top: 70px;
+    width: 320px;
     height: 31px;
     color: #ffffff;
     font-style: normal;
@@ -149,7 +150,7 @@ color: #212121;
     height: 386px;
     top: 1061px;
     column-count: 3;
-    column-gap: 100px;
+    column-gap: 200px;
     width: 1117px;
     list-style-position: inside;
 }
