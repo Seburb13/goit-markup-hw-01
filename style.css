@@ -105,64 +105,86 @@ footer {
     line-height: 10px;
     text-transform: uppercase;
 }
+    .button {
+        margin-left: 700px;
+        color: white;
+        background: #2196f3;
+        width: 200px;
+        height: 50px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
 .texttablemenu {
     font-family: "Roboto", sans-serif;
     column-count: 3;
 }
 .desc {
     top: 774px;
-    width: 1200px;
-    height:50px;
+    width: 1340px;
+    height:500px;
     position: absolute;
     font-family: "Roboto", sans-serif;
-}
-.texttabletext {
-    font-family: "Roboto", sans-serif;
-    margin: auto;
     column-count: 4;
     column-gap: 5px;
-    width: 1400px;
+}
+.sign {
+position: absolute;
+width: 380px;
+height: 42px;
+top: 969px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
 }
 .gallery {
     font-family: "Roboto", sans-serif;
     position: absolute;
-    width: 1600px;
     height: 386px;
-    top: 969px;
-}
-.images1 {
-    margin: auto;
+    top: 1061px;
     column-count: 3;
-    column-gap: 30px;
+    column-gap: 80px;
     width: 1117px;
     margin-bottom: 94px;
     list-style-position: inside;
 }
-.button {
-    margin-left: 700px;
-    color: white;
-    background: #2196f3;
-    width: 200px;
-    height: 50px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
-    cursor: pointer;
-}
-.sign {
-    font-weight: 700;
-    font-size: 42px;
-    line-height: 42px;
-    text-align: center;
-    margin-bottom: 94px;
-    margin-top: 64px;
+.sign1 {
+position: absolute;
+width: 210px;
+height: 42px;
+top: 1361px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
 }
 .team {
-    font-family: "Roboto", sans-serif;
-    position: absolute;
-    top: 1449px;
-    width: 1600px;
-    height: 648px;
-    background: #f5f4fa;
+position: absolute;
+width: 1600px;
+height: 648px;
+left: 0px;
+top: 1467px;
+
+background: #F5F4FA; 
+}
+.gallery2{
+position: absolute;
+width: 1400px;
+height: 368px;
+left: 215px;
+top: 1653px;
+column-count: 4;
 }
 ul {
     list-style-type: none;
