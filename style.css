@@ -120,6 +120,7 @@ footer {
     column-count: 3;
 }
 .desc {
+    font-family: "Roboto", sans-serif;
     top: 774px;
     width: 1340px;
     height:500px;
@@ -138,7 +139,7 @@ font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 42px;
-text-align: center;
+padding-left: 404px;
 letter-spacing: 0.03em;
 color: #212121;
 }
@@ -150,10 +151,16 @@ color: #212121;
     column-count: 3;
     column-gap: 100px;
     width: 1117px;
-    margin-bottom: 94px;
     list-style-position: inside;
 }
+.gallbox{
+width: 1170px;
+height: 386px;
+left: 180px;
+top: 969px;
+}
 .team {
+    font-family: "Roboto", sans-serif;
     position: absolute;
     width: 1600px;
     height: 648px;
@@ -162,7 +169,7 @@ color: #212121;
     }
 .sign1 {
 position: absolute;
-width: 210px;
+width: 230px;
 height: 42px;
 top: 94px;
 left: 700px;
@@ -177,11 +184,12 @@ color: #212121;
 
 .gallery2{
 position: absolute;
-width: 1100px;
+width: 1170px;
 height: 368px;
 left:180px;
 top: 186px;
 column-count: 4;
+column-gap: 20px;
 }
 ul {
     list-style-type: none;
@@ -217,4 +225,7 @@ ul {
 .ko {
     text-decoration: none;
     color: #212121;
+}
+figurecapction {
+text-align: center;
 }
