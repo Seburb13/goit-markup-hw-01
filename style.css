@@ -191,3 +191,30 @@ ul {
     text-decoration: none;
     font-family: "Roboto", sans-serif;
 }
+.mailcon:hover{
+    color:#2196f3;
+}
+.telcon:hover{
+    color:#2196f3;
+}
+.ag:hover{
+    color:#2196f3;
+}
+.po:hover{
+    color:#2196f3;
+}
+.ko:hover{
+    color:#2196f3;
+}
+.ag {
+    text-decoration: none;
+    color: #212121;
+}
+.po {
+    text-decoration: none;
+    color: #212121;
+}
+.ko {
+    text-decoration: none;
+    color: #212121;
+}
